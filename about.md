@@ -14,9 +14,7 @@ published: true
 />
 {% endcapture %}
 
-{% include page/title.html title=page.title subtitle=page_subtitle %}
-
-<img src="../tristanfcraig.github.io/{{ site.author.photo }}" width="200">
+<img src="../tristanfcraig.github.io/{{ site.author.photo }}" width="400">
 
 ## Sup 😎 
 

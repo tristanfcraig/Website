@@ -14,7 +14,7 @@ published: true
 />
 {% endcapture %}
 
-<img src="../tristanfcraig.github.io/{{ site.author.photo }}" height="600" width="400">
+<img src="../tristanfcraig.github.io/{{ site.author.photo }}" width="400" overflow="hidden">
 
 ## Sup 😎 
 

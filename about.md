@@ -16,7 +16,7 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-{{ site.author.photo }}
+<img src="{{ site.author.photo }}" width="200">
 
 ## Sup 😎 
 

@@ -16,7 +16,7 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-<img src="{{ site.author.photo }}" width="200">
+<img src="../tristanfcraig.github.io/{{ site.author.photo }}" width="200">
 
 ## Sup 😎 
 
@@ -41,6 +41,5 @@ Outside of school and work, I'm a big sports guy ⚽ 🏀 🏈 and am passionate
 <br>
 
 ### I touched Kanye west once
-![I swear I did it.](https://gfycat.com/CoarseGenuineAtlanticblackgoby)
 
 </div>
